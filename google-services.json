@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "658706858962",
+    "project_id": "martineztodoapp",
+    "storage_bucket": "martineztodoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658706858962:android:df9798498bdcbeadc8be0b",
+        "android_client_info": {
+          "package_name": "com.alan.martinez.martinezTodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658706858962-4oqnc6q4990s6s4a0d7kvbiu4jnqrvp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alan.martinez.martinezTodo",
+            "certificate_hash": "a7bcadce42cba564b3528edffec24799d2463b37"
+          }
+        },
+        {
+          "client_id": "658706858962-fov5ueloifia0u2io7qjfnbmh776g84o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alan.martinez.martinezTodo",
+            "certificate_hash": "fe9b809499555345f4ac73610a67da3ccc1ffbcf"
+          }
+        },
+        {
+          "client_id": "658706858962-9odn226n4aepqa62d8sl689r7ta6a90j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIXQvRiG1fytz3YYf3uF4SmWgCv5oE4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658706858962-9odn226n4aepqa62d8sl689r7ta6a90j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
